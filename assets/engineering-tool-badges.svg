@@ -2,9 +2,9 @@
   <title id="title">Engineering and simulation tools</title>
   <desc id="desc">Custom icon badges for Gazebo, MuJoCo, COMSOL, CST Studio Suite, and PVsyst.</desc>
   <style>
-    text { font-family: "Fira Code", "JetBrains Mono", Consolas, monospace; font-weight: 700; letter-spacing: .7px; }
+    text { font-family: "Fira Code", "JetBrains Mono", Consolas, monospace; font-size: 17px; font-weight: 800; letter-spacing: .9px; }
     .card { fill: #1a1b27; stroke: #292e42; stroke-width: 1.5; }
-    .label { fill: #c0caf5; font-size: 13px; }
+    .label { fill: #c0caf5; font-size: 17px; font-weight: 800; }
     .icon { fill: none; stroke: #7dcfff; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
     .green { stroke: #9ece6a; } .pink { stroke: #f7768e; } .orange { stroke: #ff9e64; } .purple { stroke: #bb9af7; }
   </style>
