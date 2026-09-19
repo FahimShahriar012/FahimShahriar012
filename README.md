@@ -40,7 +40,7 @@ I am **Fahim Shahriar**, an Electrical Engineering & Automation student at South
 
 <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" alt="Python" />
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=7dcfff" alt="C and C++" />
-<img src="https://img.shields.io/badge/MATLAB-1a1b27?style=for-the-badge&logo=mathworks&logoColor=ff9e64" alt="MATLAB" />
+<img src="./assets/matlab-badge.svg" alt="MATLAB" />
 <img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&logo=arduino&logoColor=7dcfff" alt="Arduino" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-1a1b27?style=for-the-badge&logo=raspberrypi&logoColor=f7768e" alt="Raspberry Pi" />
 
