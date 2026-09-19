@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/terminal-profile.svg" width="100%" alt="Fahim Shahriar — Electrical Engineering, Automation, and Research profile" />
+  <img src="./assets/terminal-profile.gif" width="100%" alt="Fahim Shahriar — Electrical Engineering, Automation, and Research profile" />
 
   <br />
 
