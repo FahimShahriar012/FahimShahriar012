@@ -47,13 +47,10 @@ I am **Fahim Shahriar**, an Electrical Engineering & Automation student at South
 ### Robotics, Simulation & Engineering Tools
 
 <img src="https://img.shields.io/badge/ROS_2-1a1b27?style=for-the-badge&logo=ros&logoColor=9ece6a" alt="ROS 2" />
-<img src="https://img.shields.io/badge/Gazebo-1a1b27?style=for-the-badge&logo=gazebo&logoColor=7dcfff" alt="Gazebo" />
-<img src="https://img.shields.io/badge/MuJoCo-1a1b27?style=for-the-badge&logoColor=bb9af7" alt="MuJoCo" />
 <img src="https://img.shields.io/badge/SolidWorks-1a1b27?style=for-the-badge&logo=dassaultsystemes&logoColor=f7768e" alt="SolidWorks" />
-<img src="https://img.shields.io/badge/COMSOL-1a1b27?style=for-the-badge&logoColor=7aa2f7" alt="COMSOL" />
-<img src="https://img.shields.io/badge/CST_Studio_Suite-1a1b27?style=for-the-badge&logoColor=e0af68" alt="CST Studio Suite" />
 <img src="https://img.shields.io/badge/AutoCAD-1a1b27?style=for-the-badge&logo=autodesk&logoColor=f7768e" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/PVsyst-1a1b27?style=for-the-badge&logoColor=9ece6a" alt="PVsyst" />
+
+<img src="./assets/engineering-tool-badges.svg" width="100%" alt="Gazebo, MuJoCo, COMSOL, CST Studio Suite, and PVsyst" />
 
 </div>
 

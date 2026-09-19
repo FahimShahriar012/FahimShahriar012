@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="52" viewBox="0 0 1000 52" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering and simulation tools</title>
+  <desc id="desc">Custom icon badges for Gazebo, MuJoCo, COMSOL, CST Studio Suite, and PVsyst.</desc>
+  <style>
+    text { font-family: "Fira Code", "JetBrains Mono", Consolas, monospace; font-weight: 700; letter-spacing: .7px; }
+    .card { fill: #1a1b27; stroke: #292e42; stroke-width: 1.5; }
+    .label { fill: #c0caf5; font-size: 13px; }
+    .icon { fill: none; stroke: #7dcfff; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+    .green { stroke: #9ece6a; } .pink { stroke: #f7768e; } .orange { stroke: #ff9e64; } .purple { stroke: #bb9af7; }
+  </style>
+
+  <g transform="translate(0 4)">
+    <rect class="card" width="168" height="44" rx="7"/>
+    <g class="icon green" transform="translate(14 11)">
+      <rect x="4" y="5" width="19" height="14" rx="3"/><circle cx="10" cy="12" r="1.2" fill="#9ece6a"/><circle cx="17" cy="12" r="1.2" fill="#9ece6a"/>
+      <path d="M13.5 5V1M9.5 1h8"/><path d="M1 23h25"/>
+    </g>
+    <text class="label" x="47" y="28">GAZEBO</text>
+  </g>
+
+  <g transform="translate(180 4)">
+    <rect class="card" width="168" height="44" rx="7"/>
+    <g class="icon purple" transform="translate(13 9)">
+      <circle cx="7" cy="14" r="3"/><circle cx="22" cy="5" r="3"/><circle cx="22" cy="23" r="3"/>
+      <path d="M9.5 12 19.5 6.8M9.5 16 19.5 21.2M22 8v12"/>
+    </g>
+    <text class="label" x="47" y="28">MUJOCO</text>
+  </g>
+
+  <g transform="translate(360 4)">
+    <rect class="card" width="168" height="44" rx="7"/>
+    <g class="icon pink" transform="translate(13 8)">
+      <ellipse cx="15" cy="14" rx="13" ry="5" transform="rotate(25 15 14)"/><ellipse cx="15" cy="14" rx="13" ry="5" transform="rotate(-25 15 14)"/>
+      <circle cx="15" cy="14" r="2.5" fill="#f7768e" stroke="none"/>
+    </g>
+    <text class="label" x="47" y="28">COMSOL</text>
+  </g>
+
+  <g transform="translate(540 4)">
+    <rect class="card" width="242" height="44" rx="7"/>
+    <g class="icon orange" transform="translate(13 8)">
+      <path d="M15 25V4M8 25h14M11 4h8"/><path d="M15 9c7 1 10 5 11 9M15 14c5 .5 8 3 9 6"/>
+      <path d="M15 9C8 10 5 14 4 18M15 14c-5 .5-8 3-9 6"/>
+    </g>
+    <text class="label" x="47" y="28">CST STUDIO SUITE</text>
+  </g>
+
+  <g transform="translate(794 4)">
+    <rect class="card" width="206" height="44" rx="7"/>
+    <g class="icon green" transform="translate(13 8)">
+      <circle cx="15" cy="9" r="5"/><path d="M15 1v2M15 15v2M7 9h2M21 9h2M9.3 3.3l1.4 1.4M20.7 3.3l-1.4 1.4"/>
+      <path d="M5 28 8 17h14l3 11M9 23h12M10 28v-5M20 28v-5"/>
+    </g>
+    <text class="label" x="47" y="28">PVSYST</text>
+  </g>
+</svg>
