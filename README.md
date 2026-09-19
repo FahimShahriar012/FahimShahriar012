@@ -7,7 +7,9 @@
   <a href="https://github.com/FahimShahriar012">
     <img src="https://img.shields.io/badge/GitHub-FahimShahriar012-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub: FahimShahriar012" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Electrical_Engineering_%26_Automation-1a1b27?style=for-the-badge&logo=electron&logoColor=7aa2f7" alt="Focus: Electrical Engineering and Automation" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous_Vehicles-1a1b27?style=for-the-badge&logo=ros&logoColor=9ece6a" alt="Focus: Autonomous Vehicles" />
+  <img src="https://img.shields.io/badge/Location-Chengdu,_China-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=f7768e" alt="Location: Chengdu, China" />
+  <img src="https://img.shields.io/badge/LinkedIn-Fahim_Shahriar-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn: Fahim Shahriar" />
   <img src="https://img.shields.io/badge/Interest-Robotics_%26_Research-1a1b27?style=for-the-badge&logo=ros&logoColor=9ece6a" alt="Interest: Robotics and Research" />
 
 </div>
