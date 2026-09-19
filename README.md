@@ -50,7 +50,7 @@ I am **Fahim Shahriar**, an Electrical Engineering & Automation student at South
 <img src="https://img.shields.io/badge/SolidWorks-1a1b27?style=for-the-badge&logo=dassaultsystemes&logoColor=f7768e" alt="SolidWorks" />
 <img src="https://img.shields.io/badge/AutoCAD-1a1b27?style=for-the-badge&logo=autodesk&logoColor=f7768e" alt="AutoCAD" />
 
-<img src="./assets/engineering-tool-badges.svg" width="100%" alt="Gazebo, MuJoCo, COMSOL, CST Studio Suite, and PVsyst" />
+<img src="./assets/engineering-tool-badges.svg" alt="Gazebo, MuJoCo, COMSOL, CST Studio Suite, and PVsyst" />
 
 </div>
 
